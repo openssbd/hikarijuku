@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-image
+  - opencv
+  - pillow
+  - pip
+  - requests
